@@ -43,6 +43,7 @@ dev_dependencies:
   json_serializable: ^4.1.2
   test: any
   hive_generator: ^1.1.0
+  mockito: ^5.0.9
 
 
 # For information on the generic Dart part of this file, see the
